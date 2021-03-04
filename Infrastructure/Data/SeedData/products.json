@@ -1,0 +1,146 @@
+[
+  {
+    "Name": "Placa Snowboard Bataleon Aviator",
+    "Description": "Este cea mai jucausa placa construita de Bataleon. Special conceputa pentru zona de all mountain park si freestyle, cu un TBT agresiv ce iarta si ajuta foarte bine la tricurile si sariturile indraznete, dar totusi mentine un echilibru excelent in virajele la viteza mare.",
+    "Price": 200,
+    "PictureUrl": "images/products/sb-avi1.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Placa Snowboard Jones Aviator",
+    "Description": "Un nou snowboard cu un nou shape ideal pentru cea mai buna performnta all-mountain twin in carving. Ideal pentru freeride  si carving pentru cei care-si doresc sa se bucure de tot ce inseamna un full camber.",
+    "Price": 150,
+    "PictureUrl": "images/products/sb-avi2.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Ski Armada Tantrum",
+    "Description": "Armada Tantrum, un schi all-mountain usor si jucaus pentru juniorii care-si doresc o progresie rapida.",
+    "Price": 180,
+    "PictureUrl": "images/products/sb-arm1.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Ski Armada Declivity 82",
+    "Description": "Avand in vedere performantele frontale de mare viteza, Declivity 82Ti ofera o stabilitate de neegalat pentru schiorul de pe partie.",
+    "Price": 300,
+    "PictureUrl": "images/products/sb-arm2.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Placa Snowboard Mind Expander Twin",
+    "Description": "Noul Mind Expander Twin, un freestyle alterntiv este un model hibrid Surf Series care imbina simtul placut si jucaus al Mind Expander cu performanta freestyle twin al unui shape directional.",
+    "Price": 250,
+    "PictureUrl": "images/products/sb-mx1.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Ski Tracer 108 Ar Warden",
+    "Description": "De la freeridingul usor la explorarea celor mai altitudini, la turele usoare, aceasta serie este construita pentru schiorii care-si creioneaza fiecare linie pe munte, pe versanti, in powder pentru niste coborari fara exceptie.",
+    "Price": 120,
+    "PictureUrl": "images/products/sb-arw1.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Casca Armanda Mission",
+    "Description": "Casca are o protectie suplimentara MIPS, ceea ce inseamna ca va puteti bucura de partiile de ski si snowboard fara griji..",
+    "Price": 10,
+    "PictureUrl": "images/products/hat-arm1.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Casti Ski Mind Expander Poc",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 8,
+    "PictureUrl": "images/products/hat-mx1.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Black React Mind Expander",
+    "Description": "Cele mai rezistente manusi la frig si zapada.",
+    "Price": 15,
+    "PictureUrl": "images/products/hat-mx2.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Manusi Sky Dark Code",
+    "Description": "Sunt utilizate de catre profesionisti datorita faptului ca rezista in cele mai gree conditii meteo.",
+    "Price": 18,
+    "PictureUrl": "images/products/glove-code1.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Manusi Fly Mitt Black Code",
+    "Description": "Printre cele mai cunoscute din gama noastra de produse pentru materialul de calitate superior.",
+    "Price": 15,
+    "PictureUrl": "images/products/glove-code2.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Manusi  Level Alpin Mind Expander",
+    "Description": "Sunt deosebite prin stil si ofera confort si protectie.",
+    "Price": 16,
+    "PictureUrl": "images/products/glove-mx1.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Manusi Reusch Gtx-Black Mind Expander",
+    "Description": "Ofera protectie deosebita impotriva umezelii. Contin o membrana ce se gaseste intre stratul exterior si captuseala manusii",
+    "Price": 14,
+    "PictureUrl": "images/products/glove-mx2.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Redis Brown Boots",
+    "Description": "Incaltaminte din piele special pentru zapada.",
+    "Price": 250,
+    "PictureUrl": "images/products/boot-redis1.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "Armanda  Boots",
+    "Description": "Formeaza o bariera impermeabila ce optimizeaza caldura, confortul si pastreaza mainile uscate.",
+    "Price": 189.99,
+    "PictureUrl": "images/products/boot-arm2.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Armanda Premium  Boots",
+    "Description": "Se adreseaza rider-ilor ce doresc un boot tehnologizat cu prindere BOA.",
+    "Price": 199.99,
+    "PictureUrl": "images/products/boot-arm1.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Aviator Boots",
+    "Description": "Cu flex mediu, potriviti pentru toate stilurile de dat. Recomandati pentru rideri incepatori si medii dar si pentru cei avansati",
+    "Price": 150,
+    "PictureUrl": "images/products/boot-avi2.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Aviator Deluxe Edition Boots",
+    "Description": "Vin cu un design modern si fresh, cu tehnologii inovatoare, special conceputi pentru rideri de toate felurile.",
+    "Price": 180,
+    "PictureUrl": "images/products/boot-avi1.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1
+  }
+]
