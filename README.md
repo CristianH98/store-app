@@ -23,8 +23,7 @@ Payment page
 Finish
 ![Screenshot 2024-03-31 at 14 18 04](https://github.com/CristianH98/store-app/assets/42655784/9fe46919-ff89-4144-b93f-eb129a25492f)
 
-Purchase history from Stripe
-![Screenshot 2024-03-31 at 14 28 54](https://github.com/CristianH98/store-app/assets/42655784/4f022400-6f81-481a-a135-c39977a2e3c0)
+![Screenshot 2024-03-31 at 14 37 58](https://github.com/CristianH98/store-app/assets/42655784/72e37361-53b2-4972-9b77-81e0c391e474)
 
  
 
