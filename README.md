@@ -1,12 +1,5 @@
 # store-app
-
-I created an E-Commerce application\
-Technologies used:\
-Text Editor: Visual Studio Code\
-Back-end: .NET 5\
-Front-end: Angular 11, Ngx-Bootstrap, HTML5, SCSS\
-Databases: SQLite, Redis for in memory storing via Docker\
-Payments: Stripe API
+ E-Commerce application\
 
 Few products to buy
 ![Screenshot 2024-03-31 at 14 11 40](https://github.com/CristianH98/store-app/assets/42655784/fe206cff-6ca8-4ecf-964e-d559a5333cab)
