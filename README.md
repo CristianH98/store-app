@@ -1,4 +1,3 @@
-# store-app
  E-Commerce application
 
 Few products to buy
